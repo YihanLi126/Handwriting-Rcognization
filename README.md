@@ -1,7 +1,7 @@
 Handwriting rcognization
 ==========
 
-This repository if for Machine Learning HW3.
+This repository is for Machine Learning HW3.
 It uses MNIST dataset, which is prepared via `dataset.py`
 
 for usage:
