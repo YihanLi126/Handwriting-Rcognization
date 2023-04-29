@@ -58,7 +58,7 @@ print('Model saved : {}'.format("model/rec_model.dat"))
 
 plt.scatter(iter,losses)
 plt.xlabel("Iteration")
-plt.ylabel("Loss*1000")
+plt.ylabel("Loss")
 plt.xlim([0,epochs])
 plt.savefig(
     "plots/loss_curvs.png",
